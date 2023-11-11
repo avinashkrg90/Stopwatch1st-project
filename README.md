@@ -3,7 +3,7 @@ Stopwatch for skill test1 at coding ninja
 
 This is simple yet responsive and attractive stopwatch created with the help og html, CSS, and javascript. 
 
-The framework of Bootstrap is used for making the pafe responsive. 
+The framework of Bootstrap is used for making the page responsive. 
 The cdn link version is used for the bootstrap.
 
 Some CSS code has been written to give styling to various components of the stopwatch. 
